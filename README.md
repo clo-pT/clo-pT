@@ -1,14 +1,15 @@
-<dev align="right">
+<div align="right">
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fclo-pT%2Fhit-counter&count_bg=%238CB86A&title_bg=%23736B6B&icon=pinboard.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-</dev>
+</div>
 
 
 
 
 
 <h3 align="center"> ✔️ My Github Stats ✔️</h3>
-<dev align="center">
+
+<div align="center">
 
 ![stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=clo-pT&&show_icons=true&theme=dark)
 
@@ -26,8 +27,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:enckd86@gmail.com)](mailto:enckd86@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_clo.pi/)](https://www.instagram.com/_clo.pi/)
-
-</dev>
+</div>
 
 
 
