@@ -8,27 +8,27 @@
 
 
 <h3 align="center"> ✔️ My Github Stats ✔️</h3>
+<dev align="center">
 
 ![stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=clo-pT&&show_icons=true&theme=dark)
 
-<dev align="center">
 
-<h3 align="center">📚 Tech Stack 📚</h3>
-<p align="center">
+
+📚 Tech Stack 📚
+
 
 ![Python Badge](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)
 
 
-</p>
 
-<h3 align="center"> 🙌 Follow Me 🙌</h3>
-<p align="center">
+ 🙌 Follow Me 🙌
+
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:enckd86@gmail.com)](mailto:enckd86@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_clo.pi/)](https://www.instagram.com/_clo.pi/)
 
 </dev>
-</p>
+
 
 
 
